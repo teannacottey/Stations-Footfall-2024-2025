@@ -31,9 +31,9 @@ The original data was presented in a CSV data file updated weekly, containing in
 
 •	Finally, SQL was used to establish relationships between tables    
 
-To access the Excel file, refer to... in my repository. 
+To access the Excel file, refer to **station_footfall_project.xlsx** in my repository. 
 
-To access the MySQL file, refer to... in my repository. 
+To access the MySQL file, refer to **station_footfall.sql** in my repository. 
 
 _Entity Relationship Diagram:_
 
@@ -429,7 +429,7 @@ Lowest Performing Stations by Daily Footfall 2024:
 
  <img width="511" height="321" alt="Lowest Performing Stations by Daily Footfall 2024" src="https://github.com/user-attachments/assets/c59f6373-ea98-4edd-b850-2c46a1176b2c" />
 
-To view the full list of underperforming stations, refer to... in my repository. 
+To view the full list of underperforming stations, refer to **Stations Below Average Footfall.xlsx** in my repository. 
 
 **Recommendations** 
 
